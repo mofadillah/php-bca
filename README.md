@@ -2,23 +2,19 @@
 
 Native PHP library untuk mengintegrasikan Aplikasi Anda dengan sistem BCA (Bank Central Asia). Untuk dokumentasi lebih jelas dan lengkap, silahkan kunjungi website resminya di [Developer BCA](https://developer.bca.co.id/documentation).
 
-Untuk Framework ```Laravel``` bisa menggunakan library [Odenktools Laravel BCA](https://github.com/odenktools/laravel-bca).
-
-Jika merasa terbantu dengan adanya library ini, jangan lupa untuk kasih STAR untuk library ini.
-
 ## Fitur Library
 
-* [Installasi](https://github.com/odenktools/php-bca#instalasi)
-* [Setting](https://github.com/odenktools/php-bca#koneksi-dan-setting)
-* [Login](https://github.com/odenktools/php-bca#login)
-* [Informasi Saldo](https://github.com/odenktools/php-bca#balance-information)
-* [Transfer](https://github.com/odenktools/php-bca#fund-transfer)
-* [Mutasi Rekening](https://github.com/odenktools/php-bca#account-statement)
-* [Info Kurs](https://github.com/odenktools/php-bca#foreign-exchange-rate)
-* [Pencarian ATM Terdekat](https://github.com/odenktools/php-bca#nearest-atm-locator)
-* [Deposit Rate](https://github.com/odenktools/php-bca#deposit-rate)
-* [Generate Signature](https://github.com/odenktools/php-bca#generate-signature)
-* [How to contribute](https://github.com/odenktools/php-bca#how-to-contribute)
+* [Installasi](https://github.com/mofadillah/php-bca#instalasi)
+* [Setting](https://github.com/mofadillah/php-bca#koneksi-dan-setting)
+* [Login](https://github.com/mofadillah/php-bca#login)
+* [Informasi Saldo](https://github.com/mofadillah/php-bca#balance-information)
+* [Transfer](https://github.com/mofadillah/php-bca#fund-transfer)
+* [Mutasi Rekening](https://github.com/mofadillah/php-bca#account-statement)
+* [Info Kurs](https://github.com/mofadillah/php-bca#foreign-exchange-rate)
+* [Pencarian ATM Terdekat](https://github.com/mofadillah/php-bca#nearest-atm-locator)
+* [Deposit Rate](https://github.com/mofadillah/php-bca#deposit-rate)
+* [Generate Signature](https://github.com/mofadillah/php-bca#generate-signature)
+* [How to contribute](https://github.com/mofadillah/php-bca#how-to-contribute)
 
 ### TODO (NEW BCA API on December 2017)
 

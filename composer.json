@@ -1,14 +1,14 @@
 {
-  "name": "odenktools/php-bca",
+  "name": "mofadillah/php-bca",
   "type": "library",
   "description": "Library REST API Untuk Develop BCA Payment",
   "keywords": ["bca", "php", "rest", "banking"],
   "homepage": "https://github.com/odenktools/php-bca",
   "license": "MIT",
   "authors": [{
-    "name": "odenktools",
-    "email": "odenktools86@gmail.com",
-    "homepage": "https://odenktools.com",
+    "name": "mofadillah",
+    "email": "mofadillah@gmail.com",
+    "homepage": "https://fidproject.com",
     "role": "Developer"
   }],
   "require": {
